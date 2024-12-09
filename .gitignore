@@ -1,1 +1,41 @@
+# General system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
 *.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.iml
+
+# Generated or cache files
+dist/
+build/
+.cache/
+node_modules/
+
+# Backup and temporary files
+*~
+*.tmp
+*.bak
+
+# Media drafts or unused file types
+*.psd
+*.xcf
+*.ai
+*.eps
+
+# Markdown or documentation tools
+*.assets/
+
+# Compressed files (if exporting backups or packages)
+*.zip
+*.tar.gz
+*.rar
